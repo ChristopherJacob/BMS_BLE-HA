@@ -106,6 +106,6 @@
   "issue_tracker": "https://github.com/patman15/BMS_BLE-HA/issues",
   "loggers": ["bleak_retry_connector", "aiobmsble"],
   "quality_scale": "silver",
-  "requirements": ["aiobmsble==0.17.0"],
+  "requirements": ["aiobmsble @ git+https://github.com/ChristopherJacob/aiobmsble.git@1556203cf9a21d5daf69370dafb4742187f5258f"],
   "version": "2.7.0"
 }
